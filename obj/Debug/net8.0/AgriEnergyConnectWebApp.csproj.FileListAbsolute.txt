@@ -1,0 +1,505 @@
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/AgriEnergyConnectWebApp.csproj.AssemblyReference.cache
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/AgriEnergyConnectWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/AgriEnergyConnectWebApp.AssemblyInfoInputs.cache
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/AgriEnergyConnectWebApp.AssemblyInfo.cs
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/AgriEnergyConnectWebApp.csproj.CoreCompileInputs.cache
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/AgriEnergyConnectWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/AgriEnergyConnectWebApp.RazorAssemblyInfo.cache
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/AgriEnergyConnectWebApp.RazorAssemblyInfo.cs
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/appsettings.Development.json
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/appsettings.json
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/AgriEnergyConnectWebApp.staticwebassets.runtime.json
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/AgriEnergyConnectWebApp.exe
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/AgriEnergyConnectWebApp.deps.json
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/AgriEnergyConnectWebApp.runtimeconfig.json
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/AgriEnergyConnectWebApp.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/AgriEnergyConnectWebApp.pdb
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Azure.Core.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Azure.Identity.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Humanizer.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/Mono.TextTemplating.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.ClientModel.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.CodeDom.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Composition.Convention.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Composition.Hosting.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Composition.Runtime.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Composition.TypedParts.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Drawing.Common.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Formats.Asn1.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Memory.Data.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Runtime.Caching.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Security.Permissions.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/System.Windows.Extensions.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/staticwebassets.build.json
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/staticwebassets.development.json
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/staticwebassets/msbuild.AgriEnergyConnectWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/staticwebassets/msbuild.build.AgriEnergyConnectWebApp.props
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AgriEnergyConnectWebApp.props
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AgriEnergyConnectWebApp.props
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/staticwebassets.pack.json
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/scopedcss/bundle/AgriEnergyConnectWebApp.styles.css
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/scopedcss/projectbundle/AgriEnergyConnectWebApp.bundle.scp.css
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/AgriEner.852A0450.Up2Date
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/AgriEnergyConnectWebApp.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/refint/AgriEnergyConnectWebApp.dll
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/AgriEnergyConnectWebApp.pdb
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/AgriEnergyConnectWebApp.genruntimeconfig.cache
+C:/Users/spraw/OneDrive/Desktop/AgriEnergyConnectWebApp/obj/Debug/net8.0/ref/AgriEnergyConnectWebApp.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/appsettings.Development.json
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/appsettings.json
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/AgriEnergyConnectWebApp.staticwebassets.runtime.json
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/AgriEnergyConnectWebApp.staticwebassets.endpoints.json
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/AgriEnergyConnectWebApp
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/AgriEnergyConnectWebApp.deps.json
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/AgriEnergyConnectWebApp.runtimeconfig.json
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/AgriEnergyConnectWebApp.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/AgriEnergyConnectWebApp.pdb
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Azure.Core.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Azure.Identity.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Humanizer.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.ClientModel.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.CodeDom.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Text.Json.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/AgriEnergyConnectWebApp.csproj.AssemblyReference.cache
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/AgriEnergyConnectWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/AgriEnergyConnectWebApp.AssemblyInfoInputs.cache
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/AgriEnergyConnectWebApp.AssemblyInfo.cs
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/AgriEnergyConnectWebApp.csproj.CoreCompileInputs.cache
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/AgriEnergyConnectWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/AgriEnergyConnectWebApp.RazorAssemblyInfo.cache
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/AgriEnergyConnectWebApp.RazorAssemblyInfo.cs
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/scopedcss/bundle/AgriEnergyConnectWebApp.styles.css
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/scopedcss/projectbundle/AgriEnergyConnectWebApp.bundle.scp.css
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/staticwebassets.build.json
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/staticwebassets.development.json
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/AgriEner.852A0450.Up2Date
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/AgriEnergyConnectWebApp.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/refint/AgriEnergyConnectWebApp.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/AgriEnergyConnectWebApp.pdb
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/AgriEnergyConnectWebApp.genruntimeconfig.cache
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/obj/Debug/net8.0/ref/AgriEnergyConnectWebApp.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Npgsql.dll
+/Users/broghankendra/AgriEnergyConnectWebApp - Copy/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/appsettings.Development.json
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/appsettings.json
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/AgriEnergyConnectWebApp.staticwebassets.endpoints.json
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/AgriEnergyConnectWebApp.staticwebassets.runtime.json
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/AgriEnergyConnectWebApp
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/AgriEnergyConnectWebApp.deps.json
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/AgriEnergyConnectWebApp.runtimeconfig.json
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/AgriEnergyConnectWebApp.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/AgriEnergyConnectWebApp.pdb
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Azure.Core.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Azure.Identity.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Humanizer.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Build.Locator.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Npgsql.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.ClientModel.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.CodeDom.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Composition.Convention.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Composition.Hosting.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Composition.Runtime.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Drawing.Common.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Formats.Asn1.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Memory.Data.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Runtime.Caching.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Security.Permissions.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Text.Json.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/System.Windows.Extensions.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/AgriEnergyConnectWebApp.csproj.AssemblyReference.cache
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/AgriEnergyConnectWebApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/AgriEnergyConnectWebApp.AssemblyInfoInputs.cache
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/AgriEnergyConnectWebApp.AssemblyInfo.cs
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/AgriEnergyConnectWebApp.csproj.CoreCompileInputs.cache
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/AgriEnergyConnectWebApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/AgriEnergyConnectWebApp.RazorAssemblyInfo.cache
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/AgriEnergyConnectWebApp.RazorAssemblyInfo.cs
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/AgriEnergyConnectWebApp.sourcelink.json
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/scopedcss/bundle/AgriEnergyConnectWebApp.styles.css
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/scopedcss/projectbundle/AgriEnergyConnectWebApp.bundle.scp.css
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/staticwebassets.build.json
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/staticwebassets.development.json
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/AgriEner.852A0450.Up2Date
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/AgriEnergyConnectWebApp.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/refint/AgriEnergyConnectWebApp.dll
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/AgriEnergyConnectWebApp.pdb
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/AgriEnergyConnectWebApp.genruntimeconfig.cache
+/Users/broghankendra/prog7311-part-2-ST10375560/obj/Debug/net8.0/ref/AgriEnergyConnectWebApp.dll

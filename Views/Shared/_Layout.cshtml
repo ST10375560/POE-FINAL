@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta information for character encoding and responsive behavior -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Title dynamically rendered using ViewData -->
+    <title>@ViewData["Title"] - AgriEnergyConnectWebApp</title>
+
+    <!-- Bootstrap CSS for responsive design and layout -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <!-- Custom site CSS with versioning for cache-busting -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+    <!-- Auto-generated styles from Razor/MVC components with versioning -->
+    <link rel="stylesheet" href="~/AgriEnergyConnectWebApp.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <!-- Container for main page content -->
+    <div class="container">
+        <!-- Main content placeholder where views will render their content -->
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- jQuery library for DOM manipulation -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    <!-- Bootstrap JS bundle for interactivity (includes Popper) -->
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom site JS with versioning for cache-busting -->
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <!-- Optional scripts section that child views can override -->
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

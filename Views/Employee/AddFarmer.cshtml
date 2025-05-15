@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Character encoding and viewport configuration -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Page title -->
+    <title>Add New Farmer - AgriEnergyConnectWebApp</title>
+
+    <!-- Stylesheets: Bootstrap for layout, custom site styles, and compiled project styles -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/AgriEnergyConnectWebApp.styles.css" asp-append-version="true" />
+</head>
+<body>
+
+    <!-- Container for the add farmer form -->
+    <div class="login-container">
+        <div class="login-card">
+            <!-- Title for the form -->
+            <h2 class="login-title">Add New Farmer</h2>
+
+            <!-- Form for adding a new farmer (POST method) -->
+            <form method="post" class="login-form">
+                <!-- Input for full name -->
+                <input type="text" id="FullName" name="FullName" placeholder="Full Name" required />
+
+                <!-- Input for email address -->
+                <input type="email" id="Email" name="Email" placeholder="Email Address" required />
+
+                <!-- Input for password (stored as a hash on the backend) -->
+                <input type="password" id="PasswordHash" name="PasswordHash" placeholder="Password" required />
+
+                <!-- Submit button to save the new farmer -->
+                <button type="submit">Save Farmer</button>
+            </form>
+
+            <!-- Link to navigate back to the Employee dashboard -->
+            <a href="@Url.Action("Dashboard", "Employee")" class="btn btn-link mt-3 d-block text-center" style="color:#219653;">
+                ← Back to Dashboard
+            </a>
+        </div>
+    </div>
+
+    <!-- Scripts: jQuery, Bootstrap JavaScript bundle, and site-wide custom scripts -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>

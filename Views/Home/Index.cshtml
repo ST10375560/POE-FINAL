@@ -1,0 +1,234 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Metadata and Title -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+
+    <!-- Internal CSS Styling -->
+    <style>
+        /* Global Styles */
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f2f5;
+            color: #2c3e50;
+        }
+
+        /* Hero Banner Section */
+        .hero {
+            background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+                        url('https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&w=1950&q=80') no-repeat center center;
+            background-size: cover;
+            padding: 8rem 2rem;
+            text-align: center;
+            color: white;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .hero p {
+            font-size: 1.25rem;
+            max-width: 700px;
+            margin: 0 auto 2rem;
+        }
+
+        /* Button Styling */
+        .btn-custom {
+            padding: 0.75rem 1.5rem;
+            font-size: 1rem;
+            margin: 0.5rem;
+        }
+
+        /* General Section Styles */
+        .section {
+            padding: 5rem 2rem;
+        }
+
+        .section h2 {
+            text-align: center;
+            margin-bottom: 3rem;
+            font-weight: 700;
+        }
+
+        /* Card Layout for Grid Display */
+        .card-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 2rem;
+            max-width: 1200px;
+            margin: auto;
+        }
+
+        .card {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
+            padding: 2rem;
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-8px);
+        }
+
+        .card i {
+            font-size: 2rem;
+            color: #27ae60;
+            margin-bottom: 1rem;
+        }
+
+        /* Testimonial Styling */
+        .testimonial {
+            background: #fff;
+            border-left: 5px solid #3498db;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 3px 10px rgba(0,0,0,0.05);
+        }
+
+        /* Footer Styling */
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            padding: 3rem 2rem 1rem;
+        }
+
+        footer a {
+            color: #ecf0f1;
+            margin: 0 0.5rem;
+        }
+
+        .footer-cols {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+        }
+
+        .footer-cols > div {
+            margin: 1rem 0;
+            flex: 1 1 250px;
+        }
+
+        .copyright {
+            text-align: center;
+            padding-top: 1rem;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Section with Call-to-Action Buttons -->
+    <section class="hero">
+        <h1>Empowering the Future of Farming</h1>
+        <p>AgriEnergyConnect bridges farmers with clean tech solutions to reduce costs and protect the planet.</p>
+        <a href="/Farmer/Index" class="btn btn-success btn-custom"><i class="fas fa-seedling"></i> Start as a Farmer</a>
+        <a href="/Employee/Dashboard" class="btn btn-outline-light btn-custom"><i class="fas fa-user-cog"></i> Employee Login</a>
+    </section>
+
+    <!-- Solutions Section: Cards displaying key services -->
+    <section class="section" id="solutions">
+        <h2>Solutions We Provide</h2>
+        <div class="card-grid">
+            <div class="card">
+                <i class="fas fa-solar-panel"></i>
+                <h4>Solar Energy Integration</h4>
+                <p>Transition to solar with cost-effective, scalable systems tailored to your farm’s needs.</p>
+            </div>
+            <div class="card">
+                <i class="fas fa-bolt"></i>
+                <h4>Smart Energy Monitoring</h4>
+                <p>Track usage, predict trends, and optimize power consumption with real-time analytics.</p>
+            </div>
+            <div class="card">
+                <i class="fas fa-cloud"></i>
+                <h4>Cloud-Based Farm Management</h4>
+                <p>Access your farm’s energy data from anywhere with our secure digital dashboard.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Why Choose Us Section -->
+    <section class="section bg-light" id="why-us">
+        <h2>Why Choose AgriEnergyConnect?</h2>
+        <div class="card-grid">
+            <div class="card">
+                <i class="fas fa-handshake"></i>
+                <h4>Trusted Partners</h4>
+                <p>We collaborate with leading energy providers and agricultural experts globally.</p>
+            </div>
+            <div class="card">
+                <i class="fas fa-wallet"></i>
+                <h4>Financing Assistance</h4>
+                <p>We help you find grants and incentives to reduce your upfront investment.</p>
+            </div>
+            <div class="card">
+                <i class="fas fa-clock"></i>
+                <h4>24/7 Support</h4>
+                <p>Our experts are always available to troubleshoot and guide you every step of the way.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Testimonials from Farmers -->
+    <section class="section" id="testimonials">
+        <h2>What Farmers Are Saying</h2>
+        <div class="card-grid">
+            <div class="testimonial">
+                <p>“We cut our energy bill by 60% within six months thanks to AgriEnergyConnect!”</p>
+                <strong>– Sarah, Organic Farmer in Colorado</strong>
+            </div>
+            <div class="testimonial">
+                <p>“The dashboard is user-friendly, and the support team is top-notch.”</p>
+                <strong>– James, Grain Producer in Texas</strong>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer with Contact Info and Social Links -->
+    <footer>
+        <div class="footer-cols">
+            <!-- About Column -->
+            <div>
+                <h4>About Us</h4>
+                <p>AgriEnergyConnect has been driving sustainable change in agriculture since 2015.</p>
+            </div>
+
+            <!-- Contact Information -->
+            <div>
+                <h4>Contact</h4>
+                <p><i class="fas fa-envelope"></i> contact@agrienergyconnect.com</p>
+                <p><i class="fas fa-phone"></i> +1 (888) 800-2345</p>
+                <p><i class="fas fa-map-marker-alt"></i> 42 Energy Lane, Sacramento, CA</p>
+            </div>
+
+            <!-- Social Media Links -->
+            <div>
+                <h4>Follow Us</h4>
+                <a href="#"><i class="fab fa-facebook fa-lg"></i></a>
+                <a href="#"><i class="fab fa-twitter fa-lg"></i></a>
+                <a href="#"><i class="fab fa-instagram fa-lg"></i></a>
+            </div>
+        </div>
+
+        <!-- Copyright -->
+        <div class="copyright">
+            <p>&copy; 2025 AgriEnergyConnect. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

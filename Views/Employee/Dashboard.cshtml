@@ -1,0 +1,168 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Meta tags for character encoding and responsiveness -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Employee Dashboard - AgriEnergyConnectWebApp</title>
+
+    <!-- Stylesheets: Bootstrap, custom site styles, and project styles -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/AgriEnergyConnectWebApp.styles.css" asp-append-version="true" />
+
+    <!-- Custom embedded styles for the dashboard -->
+    <style>
+        /* Page body styling */
+        body {
+            background: #f0f5f1;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        /* Header of the dashboard */
+        .dashboard-header {
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        }
+
+        .dashboard-header h2 {
+            color: #2e7d32;
+            margin: 0;
+        }
+
+        /* Add Farmer button styling */
+        .form-submit-btn {
+            background-color: #2e7d32;
+            color: white !important;
+            padding: 10px 20px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background-color 0.3s ease;
+        }
+
+        .form-submit-btn:hover {
+            background-color: #1b5e20;
+        }
+
+        /* Grid layout for farmer cards */
+        .farmer-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        /* Individual farmer card styling */
+        .farmer-card {
+            background-color: white;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.05);
+            transition: transform 0.2s ease;
+        }
+
+        .farmer-card:hover {
+            transform: translateY(-4px);
+        }
+
+        .farmer-name {
+            font-size: 20px;
+            font-weight: bold;
+            color: #2e7d32;
+            margin-bottom: 12px;
+        }
+
+        /* Button for viewing farmer products */
+        .btn-green {
+            background-color: #2e7d32;
+            color: white;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+
+        .btn-green:hover {
+            background-color: #1b5e20;
+        }
+
+        /* Button for deleting a farmer */
+        .btn-danger {
+            background-color: #c62828;
+            border: none;
+            padding: 6px 12px;
+            border-radius: 6px;
+            font-size: 14px;
+        }
+
+        .btn-danger:hover {
+            background-color: #b71c1c;
+        }
+
+        /* Container for back to home button */
+        .back-button-container {
+            text-align: center;
+        }
+
+        .back-button-container a {
+            margin-top: 30px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <!-- Main container for the dashboard -->
+    <div class="container py-5">
+
+        <!-- Dashboard header with title and add farmer button -->
+        <div class="dashboard-header d-flex justify-content-between align-items-center">
+            <h2>Employee Dashboard</h2>
+            <a href="/Employee/AddFarmer" class="form-submit-btn">+ Add Farmer</a>
+        </div>
+
+        <!-- Grid display of farmer cards -->
+        <div class="farmer-grid">
+            <!-- Loop through each farmer in the model and display a card -->
+            @foreach (var f in Model)
+            {
+                <div class="farmer-card">
+                    <div class="farmer-card-content">
+                        <!-- Farmer's full name -->
+                        <div class="farmer-name">@f.FullName</div>
+
+                        <!-- Action buttons: View Products and Delete -->
+                        <div class="d-flex gap-2 mt-2 align-items-center">
+                            <!-- View Products button links to a page showing the farmer's products -->
+                            <a href="/Employee/ViewProducts?farmerId=@f.FarmerId" class="btn-green">View Products</a>
+
+                            <!-- Form to delete the farmer with confirmation -->
+                            <form method="post"
+                                  asp-controller="Employee"
+                                  asp-action="DeleteFarmer"
+                                  onsubmit="return confirm('Are you sure you want to delete this farmer?');"
+                                  class="m-0 p-0">
+                                <!-- Hidden input holds the farmer ID -->
+                                <input type="hidden" name="id" value="@f.FarmerId" />
+                                <button type="submit" class="btn-danger">Delete</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        <!-- Back to home page button -->
+        <div class="back-button-container mt-5">
+            <a href="@Url.Action("Index", "Home")" class="form-submit-btn">← Back to Home</a>
+        </div>
+    </div>
+
+    <!-- Scripts for interactivity and functionality -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+</body>
+</html>
