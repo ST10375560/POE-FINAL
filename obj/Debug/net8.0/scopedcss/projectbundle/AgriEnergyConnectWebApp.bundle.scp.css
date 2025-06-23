@@ -1,0 +1,57 @@
+/* _content/AgriEnergyConnectWebApp/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Style for the navbar brand (typically the logo or site name) */
+a.navbar-brand[b-kv6n1ax1qi] {
+  white-space: normal;             /* Allows the text to wrap normally */
+  text-align: center;              /* Centers the text */
+  word-break: break-all;           /* Breaks long words to avoid overflow */
+}
+
+/* Base style for all anchor (<a>) tags */
+a[b-kv6n1ax1qi] {
+  color: #0077cc;                  /* Sets a custom blue link color */
+}
+
+/* Primary button styling */
+.btn-primary[b-kv6n1ax1qi] {
+  color: #fff;                     /* White text color */
+  background-color: #1b6ec2;       /* Primary background color */
+  border-color: #1861ac;           /* Border color slightly darker than background */
+}
+
+/* Active navigation pill link style */
+.nav-pills .nav-link.active[b-kv6n1ax1qi], 
+.nav-pills .show > .nav-link[b-kv6n1ax1qi] {
+  color: #fff;                     /* White text for active nav item */
+  background-color: #1b6ec2;       /* Same primary blue background */
+  border-color: #1861ac;           /* Consistent border color */
+}
+
+/* Adds a light gray border to the top of an element */
+.border-top[b-kv6n1ax1qi] {
+  border-top: 1px solid #e5e5e5;
+}
+
+/* Adds a light gray border to the bottom of an element */
+.border-bottom[b-kv6n1ax1qi] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+/* Applies a subtle shadow effect to an element for depth */
+.box-shadow[b-kv6n1ax1qi] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+/* Style for a button used to accept a policy (e.g., cookie banner) */
+button.accept-policy[b-kv6n1ax1qi] {
+  font-size: 1rem;                 /* Sets font size to standard readable size */
+  line-height: inherit;           /* Inherits line height from parent */
+}
+
+/* Footer styling to make it stick to the bottom of the page */
+.footer[b-kv6n1ax1qi] {
+  position: absolute;             /* Absolutely positioned */
+  bottom: 0;                      /* Anchored to the bottom of the page */
+  width: 100%;                    /* Full width of the viewport */
+  white-space: nowrap;            /* Prevents text from wrapping */
+  line-height: 60px;              /* Vertically centers content in the footer */
+}
